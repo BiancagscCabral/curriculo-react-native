@@ -1,4 +1,4 @@
-# Meu Currículo App (hello-rn)
+# Meu Currículo App
 
 Este é um aplicativo de currículo pessoal desenvolvido como meu primeiro projeto em React Native. O objetivo foi aprender os fundamentos do desenvolvimento mobile com Expo, React Native e TypeScript.
 
